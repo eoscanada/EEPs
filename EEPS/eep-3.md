@@ -40,5 +40,9 @@ Test cases for an implementation are mandatory for EEPs that are affecting conse
 ## Implementation
 The implementations must be completed before any EEP is given status "Final", but it need not be completed before the EEP is accepted. While there is merit to the approach of reaching consensus on the specification and rationale before writing code, the principle of "rough consensus and running code" is still useful when it comes to resolving many discussions of API details.
 
+## References
+
+[Initial prototype work by Angelo Laub](https://github.com/angelol/eosio.contracts/commits/master)
+
 ## Copyright
 Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).

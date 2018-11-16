@@ -5,7 +5,7 @@ Author: Adam Zientarski <adam@eosdetroit.io>, Rob Konsdorf <rob@eosdetroit.io>, 
 discussions-to: https://github.com/eoscanada/EEPs/issues/26
 status: Draft
 Type: Standard Track
-category Interface
+category: Interface
 created: 2018-11-16
 ---
 
